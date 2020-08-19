@@ -9,7 +9,7 @@ I love listening to music. Share your playlist with me 🎶
 My Socials
 
 <a href="https://www.linkedin.com/in/akshaykrishh/" target="_blank">
-  <img src="https://github.com/akshaykrishh/akshaykrishh/blob/master/assets/linkedin.png" width: "24" alt="Linkedin">
+  <img src="https://github.com/akshaykrishh/akshaykrishh/blob/master/assets/linkedin.png" width="24" alt="Linkedin">
 </a>
 
 <!--
