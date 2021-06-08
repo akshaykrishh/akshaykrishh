@@ -3,9 +3,7 @@
 
 I code sometimes. 💻 I design sometimes. 🎨 
 <br />
-Pursuing Electrical Engineering from IIT Madras. ⚡
-<br />
-I love listening to music. Share your playlist with me 🎶
+Pursuing Electrical Engineering from IIT Madras.
 <br />
 
 [Portfolio Website](https://akshaykrishh.github.io/)
