@@ -1,10 +1,11 @@
 ### Hey! I'm Akshay 👋
 ![Banner](https://github.com/akshaykrishh/akshaykrishh/blob/master/assets/banner.png)
 
-I code sometimes. 💻 I design sometimes. 🎨 
-<br />
-Pursuing Electrical Engineering from IIT Madras.
-<br />
+- Web Developer 💻
+- Graphic Designer 🎨
+- Currently learing iOS development 📱
+- Always listening to music 🎵
+- Pursuing Electrical Engineering from IIT Madras ⚡️
 
 [Portfolio Website](https://akshaykrishh.github.io/)
 
