@@ -1,11 +1,8 @@
 ### Hey! I'm Akshay 👋
 ![Banner](https://github.com/akshaykrishh/akshaykrishh/blob/master/assets/banner.png)
 
-- Web Developer 💻
-- Graphic Designer 🎨
+- Full Stack Software Developer 💻
 - Currently learing iOS development 📱
-- Always listening to music 🎵
-- Pursuing Electrical Engineering from IIT Madras ⚡️
 
 [Portfolio Website](https://akshaykrishh.github.io/)
 
