@@ -26,7 +26,6 @@ building things on the internet. mostly js, sometimes go, always chasing the nex
 ###### github
 
 <a href="https://github.com/akshaykrishh">
-  <img height="130" src="https://github-readme-stats.vercel.app/api?username=akshaykrishh&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" />
   <img height="130" src="https://streak-stats.demolab.com?user=akshaykrishh&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 
